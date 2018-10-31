@@ -1,0 +1,8 @@
+"framework"
+{
+	"base"		"sandbox"
+	"title"		"Framework"
+	"maps"		"^sk_"
+	"menusystem"	"0"
+
+}

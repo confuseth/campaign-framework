@@ -1,0 +1,8 @@
+"schema"
+{
+	"base"		"framework"
+	"title"		"Test Schema"
+	"maps"		"^sk_"
+	"menusystem"	"1"
+
+}
