@@ -187,11 +187,6 @@ function SWEP:Reload()
 	end
 	self.ReloadingTime = CurTime() + 1
 end
-function SWEP:Think()
-end
-
-function SWEP:Reload()
-end
 
 function SWEP:PrimaryAttack()
 	local tr = self.Owner:GetEyeTrace()
